@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/favoritesMenu"
+        android:icon="@drawable/ic_favorite"
+        android:title="FAVORITES" />
+    <item
+        android:id="@+id/wishlistMenu"
+        android:icon="@drawable/ic_folder"
+        android:title="WISHLIST" />
+    <item
+        android:id="@+id/extra1Menu"
+        android:icon="@drawable/ic_add"
+        android:title="extra" />
+    <item
+        android:id="@+id/extra2Menu"
+        android:icon="@drawable/ic_add"
+        android:title="extra" />
+    <item
+        android:id="@+id/extra3Menu"
+        android:icon="@drawable/ic_add"
+        android:title="extra" />
+    <item
+        android:id="@+id/addMenu"
+        android:icon="@drawable/ic_add"
+        android:title="ADD" />
+
+</menu>
